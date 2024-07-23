@@ -1,5 +1,4 @@
 {
-  "result": [
     {
       "id": "1",
       "permisos": "all"
@@ -12,5 +11,4 @@
       "id": "3",
       "permisos": "all"
     }
-  ]
 }
