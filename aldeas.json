@@ -2,15 +2,15 @@
   "result": [
     {
       "id": "1",
-      "permisos": "all",
+      "permisos": "all"
     },
     {
       "id": "2",
-      "permisos": "all",
+      "permisos": "all"
     },
     {
       "id": "3",
-      "permisos": "all",
+      "permisos": "all"
     }
   ]
 }
