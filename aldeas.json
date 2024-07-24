@@ -1,16 +1,19 @@
 {
   "result": [
     {
-      "id": "1",
+      "user": "yoimx",
+      "date_limit": "02/05/2099 23:51:50",
       "permisos": "all"
     },
     {
-      "id": "2",
+      "user": "manucumbraos",
+      "date_limit": "02/05/2099 23:51:50",
       "permisos": "all"
     },
     {
-      "id": "3",
-      "permisos": "all"
+      "user": "unrandom",
+      "date_limit": "02/09/2024 23:51:50",
+      "permisos": ""
     }
   ]
 }
