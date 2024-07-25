@@ -11959,3 +11959,4 @@ function DIO_GAME(dio_version, gm, DATA, time_a, url_dev) {
             $('.dio_reload').remove();
         },
     };
+}
