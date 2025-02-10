@@ -42,7 +42,7 @@
     },
     {
       "user": "jostrick",
-      "date_limit": "11/23/2024 00:00:00",
+      "date_limit": "03/11/2024 00:00:00",
       "permisos": ""
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "user": "dingal",
-      "date_limit": "11/23/2024 00:00:00",
+      "date_limit": "03/11/2025 00:00:00",
       "permisos": ""
     },
     {
@@ -178,6 +178,11 @@
     {
       "user": "yagoamaro",
       "date_limit": "01/28/2026 00:00:00",
+      "permisos": ""
+    },
+    {
+      "user": "carlosdo",
+      "date_limit": "03/11/2025 00:00:00",
       "permisos": ""
     },
     {
