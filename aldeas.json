@@ -17,8 +17,13 @@
     },
     {
       "user": "jostrick",
-      "date_limit": "03/11/2024 00:00:00",
-      "permisos": ""
+      "date_limit": "02/15/2024 00:00:00",
+      "permisos": "1.queue"
+    },
+    {
+      "user": "babymonster",
+      "date_limit": "02/15/2024 00:00:00",
+      "permisos": "1.queue"
     },
     {
       "user": "Suuk",
