@@ -12,7 +12,7 @@
     },
     {
       "user": "Lady Crane",
-      "date_limit": "12/12/2024 23:51:50",
+      "date_limit": "12/12/2025 23:51:50",
       "permisos": ""
     },
     {
@@ -183,7 +183,7 @@
     {
       "user": "carlosdo",
       "date_limit": "03/11/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "Keycode",
