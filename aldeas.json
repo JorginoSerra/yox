@@ -33,12 +33,12 @@
     {
       "user": "Suuk",
       "date_limit": "02/23/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "Marco Aurelio Antonino",
       "date_limit": "02/15/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "Ymur",
@@ -68,7 +68,7 @@
     {
       "user": "ethanjohn80",
       "date_limit": "11/23/2024 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "Ortega y Gasset",
@@ -78,27 +78,27 @@
     {
       "user": "Alcan80",
       "date_limit": "02/15/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "Darkenrall",
       "date_limit": "02/29/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "et22",
       "date_limit": "03/28/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "Macha199",
       "date_limit": "03/20/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "yagoamaro",
       "date_limit": "01/28/2026 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     },
     {
       "user": "carlosdo",
@@ -108,7 +108,7 @@
     {
       "user": "Keycode",
       "date_limit": "02/22/2025 00:00:00",
-      "permisos": ""
+      "permisos": "1.queue"
     }
   ]
 }
