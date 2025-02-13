@@ -11,6 +11,11 @@
       "permisos": "1.queue/3.tropas"
     },
     {
+      "user": "Raquelv",
+      "date_limit": "02/05/2099 00:00:00",
+      "permisos": "3.tropas"
+    },
+    {
       "user": "Lady Crane",
       "date_limit": "03/17/2025 00:00:00",
       "permisos": "1.queue"
@@ -116,6 +121,16 @@
       "permisos": "1.queue"
     },
     {
+      "user": "Keycode",
+      "date_limit": "02/22/2025 00:00:00",
+      "permisos": "1.queue"
+    },
+    {
+      "user": "carlosdo",
+      "date_limit": "02/17/2025 00:00:00",
+      "permisos": "1.queue"
+    },
+    {
       "user": "et22",
       "date_limit": "03/28/2025 00:00:00",
       "permisos": "1.queue"
@@ -128,21 +143,6 @@
     {
       "user": "yagoamaro",
       "date_limit": "01/28/2026 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "carlosdo",
-      "date_limit": "02/17/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Raquelv",
-      "date_limit": "02/15/2026 00:00:00",
-      "permisos": "3.tropas"
-    },
-    {
-      "user": "Keycode",
-      "date_limit": "02/22/2025 00:00:00",
       "permisos": "1.queue"
     }
   ]
