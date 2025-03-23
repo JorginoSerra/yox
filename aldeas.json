@@ -8,7 +8,7 @@
     {
       "user": "ManuCumbraos",
       "date_limit": "02/05/2099 00:00:00",
-      "permisos": "1.queue/3.tropas"
+      "permisos": "all"
     },
     {
       "user": "Raquelv",
@@ -29,6 +29,11 @@
       "user": "Lady Crane",
       "date_limit": "03/17/2025 00:00:00",
       "permisos": "1.queue"
+    },
+    {
+      "user": "PabloVL",
+      "date_limit": "08/17/2025 00:00:00",
+      "permisos": "3.tropas"
     },
     {
       "user": "sergi556",
