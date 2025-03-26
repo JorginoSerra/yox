@@ -203,17 +203,17 @@
     {
       "user": "ZeusitoElTremendo",
       "date_limit": "02/05/2099 00:00:00",
-      "permisos": "1.queue/3.tropas"
+      "permisos": "1.queue"
     },
     {
       "user": "Macha199",
       "date_limit": "02/05/2099 00:00:00",
-      "permisos": "1.queue"
+      "permisos": "1.queue/3.tropas"
     },
     {
       "user": "yagoamaro",
       "date_limit": "02/05/2099 00:00:00",
-      "permisos": "1.queue"
+      "permisos": "1.queue/3.tropas"
     }
   ]
 }
