@@ -176,13 +176,18 @@
       "permisos": "1.queue/3.tropas"
     },
     {
+      "user": "vShinji",
+      "date_limit": "08/21/2025 00:00:00",
+      "permisos": "1.queue/3.tropas"
+    },
+    {
       "user": "carlosdo",
       "date_limit": "04/17/2025 00:00:00",
       "permisos": "1.queue"
     },
     {
       "user": "Halamadrid",
-      "date_limit": "08/17/2025 00:00:00",
+      "date_limit": "01/17/2025 00:00:00",
       "permisos": "3.tropas"
     },
     {
