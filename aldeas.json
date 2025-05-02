@@ -11,16 +11,6 @@
       "permisos": "all"
     },
     {
-      "user": "Raquelv",
-      "date_limit": "02/05/2099 00:00:00",
-      "permisos": "3.tropas"
-    },
-    {
-      "user": "SPIRIT",
-      "date_limit": "02/05/2099 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
       "user": "jostrick",
       "date_limit": "02/05/2099 00:00:00",
       "permisos": "1.queue/3.tropas"
@@ -29,16 +19,6 @@
       "user": "Cumbri",
       "date_limit": "02/05/2099 00:00:00",
       "permisos": "1.queue/3.tropas"
-    },
-    {
-      "user": "Lady Crane",
-      "date_limit": "03/17/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Pablo VL",
-      "date_limit": "08/17/2025 00:00:00",
-      "permisos": "3.tropas"
     },
     {
       "user": "God7",
@@ -61,11 +41,6 @@
       "permisos": "3.tropas"
     },
     {
-      "user": "sergi556",
-      "date_limit": "03/16/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
       "user": "swordmiguel",
       "date_limit": "05/21/2025 00:00:00",
       "permisos": "1.queue/3.tropas"
@@ -81,28 +56,8 @@
       "permisos": "1.queue"
     },
     {
-      "user": "Yaguamiop",
-      "date_limit": "02/18/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
       "user": "corinto",
       "date_limit": "05/16/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "nicky00",
-      "date_limit": "04/01/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Rebolledo16",
-      "date_limit": "02/19/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "babymonster",
-      "date_limit": "02/17/2025 00:00:00",
       "permisos": "1.queue"
     },
     {
@@ -111,28 +66,8 @@
       "permisos": "1.queue"
     },
     {
-      "user": "Marco Aurelio Antonino",
-      "date_limit": "03/17/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Pabli12",
-      "date_limit": "02/17/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Ymur",
-      "date_limit": "03/17/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
       "user": "Jotwar",
       "date_limit": "05/16/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Lord Galto",
-      "date_limit": "04/16/2025 00:00:00",
       "permisos": "1.queue"
     },
     {
@@ -141,18 +76,8 @@
       "permisos": "1.queue"
     },  
     {
-      "user": "tas 2020",
-      "date_limit": "03/17/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
       "user": "ferry87",
       "date_limit": "05/16/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Ortega y Gasset",
-      "date_limit": "03/23/2025 00:00:00",
       "permisos": "1.queue"
     },
     {
@@ -161,24 +86,9 @@
       "permisos": "1.queue"
     },
     {
-      "user": "DIODER",
-      "date_limit": "03/17/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
-      "user": "Darkenrall",
-      "date_limit": "03/29/2025 00:00:00",
-      "permisos": "1.queue"
-    },
-    {
       "user": "Keycode",
       "date_limit": "07/25/2025 00:00:00",
       "permisos": "1.queue/3.tropas"
-    },
-    {
-      "user": "kakaroto",
-      "date_limit": "05/30/2025 00:00:00",
-      "permisos": "1.queue"
     },
     {
       "user": "miguelvillota10",
@@ -187,11 +97,6 @@
     },
     {
       "user": "enriquemagic9",
-      "date_limit": "08/21/2025 00:00:00",
-      "permisos": "1.queue/3.tropas"
-    },
-    {
-      "user": "vShinji",
       "date_limit": "08/21/2025 00:00:00",
       "permisos": "1.queue/3.tropas"
     },
