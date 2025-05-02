@@ -197,8 +197,8 @@
     },
     {
       "user": "Halamadrid",
-      "date_limit": "05/02/2025 00:00:00",
-      "permisos": "3.tropas"
+      "date_limit": "06/02/2025 00:00:00",
+      "permisos": "1.queue/3.tropas"
     },
     {
       "user": "et22",
